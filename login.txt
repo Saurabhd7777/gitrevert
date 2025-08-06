@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 thiddd
 
 fhffftyy gghfgd 
 
 thitrry uuhddr thidt 
+=======
+thiddd
+>>>>>>> origin/main
